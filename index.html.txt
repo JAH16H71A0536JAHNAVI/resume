@@ -1,0 +1,11 @@
+< !DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Resume Building</title>
+</head>
+<body> 
+<h1>Resume</h1>
+<p>present i am in mic clg of technology</p>
+</body>
+</html>
