@@ -1,8 +1,44 @@
 {
 	"details":{
 		"name":"siddu",
-		"image":"abc.png",
+		"image":"images.png",
 		"phone.no":"1234567892",
 		"email":"siddu@gmail.com"
+	},
+	"education":[
+		{
+			"course":"B.tech(cse)",
+			"college":"MIC CLG",
+			"percentage":"70%"
+		},
+		{
+			"course":"inter",
+			"college":"chaitanya",
+			"percentage":"87%"
+		},
+        {
+			"course":"tenth",
+			"college":"kennedy",
+			"percentage":"84%"
+		}
+   ],
+"skills":[
+	{
+		"title":"programing laguage",
+		"output":[
+
+			"C","C++","JAVA","python"
+			]
+	},
+	{
+		"title":"Operating System",
+		"output":[
+			"Windows","Linux","mac"
+		]
 	}
+	
+],
+"career":{
+ "co":"Annoational things are the explanatory parts of uml model these are the commands used to destroy illuminal about any element in a mode "	
+}
 }
